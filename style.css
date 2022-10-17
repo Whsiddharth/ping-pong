@@ -1,0 +1,16 @@
+body
+{
+font-family: fredoka one;
+text-align: center;
+}
+.heading{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+    display: inline;
+}
+.heading button{
+    float:right;
+    border: 2px solid white;
+}
